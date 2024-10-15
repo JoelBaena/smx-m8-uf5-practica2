@@ -14,3 +14,15 @@ Aquesta web conté una col·lecció de receptes de cuina, incloent plats com la 
 - **Estil**: Utilitza CSS per a l'estilització.
 
 ## Estructura del Projecte
+
+```
+smx-m8-uf5-practica2/
+├── css/
+│   └── styles.css        # Full d'estil extern
+├── img/                  # Carpeta per a les imatges
+├── receptes/            # Carpeta per a les receptes
+│   ├── pizza-carbonara.html
+│   └── pastis-formatge.html
+├── index.html            # Pàgina principal
+└── README.md             # Documentació del projecte
+```
