@@ -9,14 +9,14 @@
 <body>
     <h1>Receptes de Cuina</h1>
     <ul>
-        <li>Carn
+        <li>Plats Principals
             <ul>
-                <li><a href="receptes/recepta1.html">Recepta de Fricandó</a></li>
+                <li><a href="receptes/pizza-carbonara.html">Pizza Carbonara</a></li>
             </ul>
         </li>
-        <li>Peix
+        <li>Postres
             <ul>
-                <li><a href="receptes/recepta2.html">Recepta de Suquet de Peix</a></li>
+                <li><a href="receptes/pastis-formatge.html">Pastís de Formatge</a></li>
             </ul>
         </li>
     </ul>
